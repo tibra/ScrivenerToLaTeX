@@ -1,0 +1,28 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{%
+Mayer%
+\ \BBA{} Moreno%
+}{%
+Mayer%
+\ \BBA{} Moreno%
+}{%
+{\protect\APACyear{2002}}%
+}]{%
+Mayer_2002}%
+\APACinsertmetastar{%
+Mayer_2002}%
+Mayer, R\BPBI E.%
+\BCBT{}\ \BBA{} Moreno, R.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Aids to computer-based multimedia learning}{Aids to
+  computer-based multimedia learning}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Learning and Instruction}{}{12}{107-119}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
